@@ -4,3 +4,6 @@ vendor
 phpunit.xml
 coverage.xml
 test-reports
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
